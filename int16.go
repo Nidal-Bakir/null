@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"strconv"
 
-	"github.com/Nidal-Bakir/null/v6/internal"
+	"github.com/Nidal-Bakir/null/v7/internal"
 )
 
 // Int16 is an nullable int16.

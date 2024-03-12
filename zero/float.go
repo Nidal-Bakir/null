@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/Nidal-Bakir/null/v6/internal"
+	"github.com/Nidal-Bakir/null/v7/internal"
 )
 
 // Float is a nullable float64. Zero input will be considered null.
