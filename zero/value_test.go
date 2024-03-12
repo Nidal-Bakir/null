@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/guregu/null/v5/internal"
+	"github.com/Nidal-Bakir/null/v6/internal"
 )
 
 func TestValue(t *testing.T) {
